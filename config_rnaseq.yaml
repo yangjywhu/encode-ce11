@@ -1,0 +1,5 @@
+BASE_DIR: "/data4/zhoulab/yangjiayi/project/yxh_ce"
+ANNO_DIR: "/data4/zhoulab/yangjiayi/project/yxh_ce/ref"
+
+INFO_CSV: "/data4/zhoulab/yangjiayi/project/yxh_ce/script/ce_data_info.csv"
+INFO_CTRL: "/data4/zhoulab/yangjiayi/project/yxh_ce/script/ce_data_info_ctrl.csv"
